@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Karsa Dictionary</string>
+    <string name="tagline">Where Every Word Finds Its Meaning</string>
+    <string name="search_hint">Search here...</string>
+</resources>
